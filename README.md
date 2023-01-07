@@ -1,6 +1,8 @@
 # Student-Income-Prediction
 Predicting student's income after enrollment in an institution of higher education 
 
+**The Notebook files contain detailed analysis done on the dataset and the solution proffered
+
 ## CSV FILE USED
 - test_values.csv
 - train_values.csv
